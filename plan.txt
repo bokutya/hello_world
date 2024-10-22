@@ -1,1 +1,1 @@
-I have a wonderful plan to solve te TSP.
+I have a wonderful plan to solve the TSP.
